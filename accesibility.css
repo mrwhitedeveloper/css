@@ -1,0 +1,632 @@
+
+
+.dark-mode {
+	background-color: black;
+	color: white;
+}
+
+.ablue {
+	background-color: blue;
+	color: white;
+	padding: 3px;
+}
+
+.awhite {
+	background-color: white;
+	color: black;
+	padding: 3px;
+}
+
+.font-resizer span a.awhite {
+	background-color: white;
+	color: black;
+	padding: 3px;
+}
+.ferror{
+	color: red;
+	padding: 10px;
+}
+
+body.outlight {
+	background: black;
+	color: #fff;
+}
+.outlight  .ferror{
+	color: #80ff00;
+	padding: 10px;
+}
+.outlight div#breadcrumb {
+	background: #000 !important;
+	color: #fff
+}
+
+.outlight div#tophead {
+	background: #000 !important;
+	color: #fff
+}
+
+.outlight div#main-nav {
+  border-bottom: 5px solid #bbb;
+	background: #000 !important;
+	color: #fff
+}
+.outlight main #signup-step li{
+  background: black;
+  color: #ff0;
+}
+.outlight main #signup-step li.active{
+  background: black;
+  color: #80ff00;
+}
+.outlight .helpie-faq.accordions .accordion__body,.helpie-faq.accordions .accordion__header{
+  background: black;
+	color: #fff
+}
+.outlight .accordion__title{
+  background: black;
+	color: #fff
+}
+.outlight footer#colophon {
+	background: #000 !important;
+	color: #fff
+}
+
+.outlight .entry-title h4
+{
+  background: black;
+  color: #80ff00 !important;
+}
+.outlight .main-navigation li a,
+.outlight  .main-navigation li a,
+.outlight  .main-navigation li.current-menu-item > a,
+.outlight  .main-navigation li.current_page_item > a,
+.outlight  .main-navigation li > a{
+	background: black;
+	color: #fff !important;
+  }
+.outlight .main-navigation li a:hover,
+.outlight .main-navigation li a:focus,
+.outlight .main-navigation li.current-menu-item > a,
+.outlight .main-navigation li.current_page_item > a,
+.outlight .main-navigation li:hover > a{
+  background: black;
+  color: #80ff00 !important;
+}
+.outlight a,
+.outlight .item-eventlist .views-field-title a,
+.outlight .panel-body p a 
+.outlight .scrollup,
+.outlight .footer_menu li a,
+.outlight .site-footer .social-icons a,
+.outlight.skip_main_containt li a,
+.outlight .font-resizer span a,.outlight span a.awhite
+.outlight article .entry-content > a,
+.outlight .nav_menu li a,
+.outlight #quick-contact a,
+.outlight .skip_main_containt li a,
+.outlight .newsEventTicker .galleryList .views-field-title a,
+.outlight .newsEventTicker .galVideoList .views-row .views-field-title span
+.outlight .galleryList .views-field-title a,
+.outlight .galleryList .views-field-name a,
+.outlight .galVideoList .views-field-field-video+.views-field-title span
+{
+  background: black;
+  color: #ff0 !important;
+}
+.outlight a:hover,
+.outlight .item-eventlist .views-field-title a:hover,
+.outlight .panel-body p a:hover,
+.outlight .footer_menu li a:hover,
+.outlight .site-footer .social-icons a:hover,
+.outlight .site-footer .social-icons a:active,
+.outlight .footer_menu li a:active,
+.outlight .skip_main_containt li a:hover,
+.outlight .skip_main_containt li a:active
+.outlight article .entry-content > a:hover,
+.outlight article .entry-content > a:active,
+.outlight .nav_menu li a:hover,
+.outlight .nav_menu li a:active,
+.outlight #quick-contact  a:hover,
+.outlight #quick-contact  a:active,
+.outlight .main-navigation ul li a:hover,
+.outlight .main-navigation ul li a:active
+.outlight .newsEventTicker .galleryList .views-field-title a:hover,
+.outlight .newsEventTicker .galleryList .views-field-title a:active,
+.outlight .newsEventTicker .galVideoList .views-row .views-field-title span
+.outlight .galleryList .views-field-title a:hover,
+.outlight .galleryList .views-field-name a:hover,
+.outlight .galleryList .views-field-name a:active,
+.outlight .galVideoList .views-field-field-video+.views-field-title span
+.outlight div.entry-content a,div.entry-content span:hover 
+.outlight div.entry-content > a:hover,div.entry-content span:hover
+{
+  background: black;
+  color: #80ff00 !important;
+}
+.outlight div#featured-content,
+.outlight div#featured-news-events,
+.outlight .widget-title {
+	background: #000 !important;
+	color: #fff
+}
+
+
+
+
+.outlight div.panel-body h4.entry-title
+{
+	background: black;
+	color: #80ff00;
+}
+.outlight div.panel-body,
+.outlight div.panel,
+.outlight div.card,
+.outlight div.card-body {
+	background: black;
+	color: #fff
+}
+
+.outlight .panel-success > .panel-heading {
+	background: black;
+	color: #80ff00;
+  border-color: #d6e9c6;
+}
+.outlight .nav{
+	background: black;
+	color: #fff
+}
+/* .outlight article>img {
+	filter: grayscale(100%);
+}
+
+.outlight img.custom-logo {
+	filter: grayscale(100%);
+}
+
+.outlight img {
+	filter: grayscale(100%);
+}
+
+.outlight div.field-content>a>img {
+	filter: grayscale(100%);
+} */
+
+.outlight article.accordion li {
+	background: black;
+	color: #fff;
+}
+
+
+.outlight a:hover,
+.outlight .ourSchemesBlock h3,
+.outlight .pageHeading h2,
+.outlight .keyPersonsBlock h3,
+.outlight .whiteInBox h2,
+.outlight .whiteInBox .resTab .tabNav .r-tabs-state-active a,
+.outlight .item-eventlist .views-field-view-node a,
+.outlight .search-results p strong {
+	color: #80ff00
+}
+
+.outlight .whiteInBox,
+.outlight .keyPersonsBlock,
+.outlight .famousSayingsSlider .item,
+.outlight .innerContent,
+.outlight .schemesOuter,
+.outlight .schemesField .customSelect {
+	background-color: black;
+}
+
+.outlight .mainNavigation {
+	background: black;
+}
+
+.outlight .pageHeading,
+.outlight .ourSchemesBlock {
+	background-color: #222;
+}
+
+.outlight .resTab .tabNav li {
+	background-color: #fff;
+}
+
+.outlight .searchbox,
+.outlight .footerInner,
+.outlight .resTab .tabNav .r-tabs-state-active a,
+.outlight .pager li {
+	background-color: black;
+  color: #ff0;
+}
+
+.outlight .whiteInBox .resTab .tabNav li,
+.outlight .whiteInBox .resTab .tabNav .r-tabs-state-active a {
+	background-color: inherit;
+}
+
+.outlight .footerInner {
+	background: black;
+}
+
+.outlight #primary-menu>li.active>a,
+.outlight #primary-menu>li.active-trail a,
+.outlight #primary-menu>li>a.active,
+.outlight #primary-menu>li>a:hover,
+.outlight #primary-menu>li.hover>a,
+.outlight #primary-menu>li.focus>a,
+.outlight #primary-menu>.highlight>a,
+.outlight #primary-menu ul li a {
+	background-color: #222;
+}
+
+.outlight #primary-menu li ul li a:hover,
+.outlight #primary-menu li ul li.active-trail a,
+.outlight #primary-menu li ul li>a.selected,
+.outlight #primary-menu ul a:hover,
+.noJS.outlight #primary-menu ul a:focus,
+.outlight #primary-menu ul a.selected,
+.outlight #primary-menu ul>.highlight>a {
+	background: color #80ff00;
+	;
+}
+
+.outlight #primary-menu ul li a {
+	border-color: #ff0;
+}
+
+.outlight .breadcrumb li a,
+.outlight #breadcrumb>span,
+.outlight .whiteInBox .resTab .tabNav li a,
+.outlight .arrowList li a,
+.outlight .pdfList li a,
+.outlight .date-display-single,
+.outlight .daySpan {
+	color: #ff0;
+}
+
+.outlight .whiteInBox h2:after,
+.outlight .whiteInBox .resTab .tabNav li.r-tabs-state-active a:after {
+	background-color: #80ff00;
+}
+
+.outlight ul.bulletText li {
+	background: url(../images/dark/bullet-arrow.png) no-repeat left 9px;
+}
+
+.outlight .pdfSize {
+	color: #aaa;
+}
+
+.outlight .sideMenu {
+	background-color: #111;
+}
+
+.outlight input[type="submit"],
+.outlight input[type="button"],
+.outlight input[type="reset"],
+.outlight button,
+.outlight .button,
+.outlight .search-advanced .fieldset-legend a.fieldset-title {
+	background-color: #ff0;
+	color: black;
+	border: 1px solid #ff0;
+}
+
+.outlight input[type="submit"]:hover,
+.outlight input[type="button"]:hover,
+.outlight input[type="reset"]:hover,
+.outlight button:hover,
+.outlight .button:hover,
+.outlight .search-advanced .fieldset-legend a.fieldset-title:hover {
+	background-color: #80ff00;
+	border-color: #80ff00;
+}
+
+.outlight .searchboxRow .form-submit,
+.outlight .searchboxRow .form-submit:hover {
+	border: none;
+	background: url(../images/sprites.png) no-repeat -38px 16px;
+}
+
+.outlight #backtotop {
+	background-color: black;
+}
+
+.outlight #backtotop:after {
+	border-bottom-color: black;
+}
+
+.outlight #backtotop:hover {
+	background-color: #80ff00;
+	color: black;
+}
+
+.outlight #backtotop:hover:after {
+	border-bottom-color: #80ff00;
+}
+
+.outlight .calenderBlock .date-prev a {
+	background: url(../images/dark/calprev-arrow.png) no-repeat left center;
+}
+
+.outlight .calenderBlock .date-next a {
+	background: url(../images/dark/calnext-arrow.png) no-repeat left center;
+}
+
+.outlight .whatsNewsTicker .activityTicker li:after {
+	background: url(../images/dark/list-arrow.png) no-repeat left center;
+}
+
+.outlight .site-map-menu li.expanded:after {
+	background: url(../images/dark/sprites.png) no-repeat -490px top;
+}
+
+.outlight .site-map-box-menu .site-map-menu:first-child>li:after {
+	background: url(../images/dark/sprites.png) no-repeat -490px top;
+}
+
+.outlight .calendar-calendar td,
+.outlight .calendar-calendar tr:nth-child(2n+1) td {
+	background-color: black;
+}
+
+.outlight .date-heading h3 a,
+.outlight #breadcrumb>span a,
+.outlight .resTab .tabNav .r-tabs-state-active a,
+.outlight .accordion .accTrigger h3 {
+	color: #ff0;
+}
+
+.outlight .postGrievLink figcaption {
+	background-color: #222;
+}
+
+.outlight .postGrievLink:hover figcaption {
+	background-color: black;
+}
+
+.outlight .block-submenutree h2,
+.outlight .resTab .tabNav li a {
+	color: black;
+}
+
+.outlight #breadcrumb>span:last-child {
+	color: #fff;
+}
+
+.outlight .mainColum h4 {
+	color: #fff;
+	border-color: #fff;
+}
+
+.outlight table,
+.outlight .tableData {
+	border-color: #bbb;
+}
+
+.outlight caption,
+.outlight th,
+.outlight td {
+	background-color: #777;
+}
+
+.outlight th,
+.outlight .tableData th {
+	background: black;
+}
+
+.outlight th,
+.outlight td,
+.outlight .tableData th,
+.outlight .tableData td {
+	border-color: #bbb;
+}
+
+.outlight table tr:nth-child(2n+1) td,
+.outlight .tableRowOdd {
+	background-color: black;
+}
+
+.outlight .linkBoxs li a,
+.outlight .linkBoxsOuter .menu li a {
+	background: #bbb;
+	color: #ff0;
+}
+
+.outlight .stop:after {
+	background: url(../images/dark/sprites.png) no-repeat -128px top;
+}
+
+.outlight .play:after {
+	background: url(../images/dark/sprites.png) no-repeat -99px top;
+}
+
+.outlight .famousSayingsSlider p:before,
+.outlight .item-sayingsList li .views-field-body p:before {
+	background: url(../images/dark/sprites.png) no-repeat -178px top;
+}
+
+.outlight .famousSayingsSlider p:after,
+.outlight .item-sayingsList li .views-field-body p:after {
+	background: url(../images/dark/sprites.png) no-repeat -238px top;
+}
+
+.outlight .schemesList.owl-theme .owl-controls .owl-nav .owl-prev {
+	background: url(../images/dark/sprites.png) no-repeat -307px top;
+}
+
+.outlight .schemesList.owl-theme .owl-controls .owl-nav .owl-next {
+	background: url(../images/dark/sprites.png) no-repeat -373px top;
+}
+
+.outlight .footerLogoList.owl-theme .owl-nav .owl-prev,
+.outlight .footerLogoList.owl-theme .owl-nav .owl-prev:hover {
+	background: url(../images/dark/sprites.png) no-repeat -307px -50px;
+}
+
+.outlight .footerLogoList.owl-theme .owl-nav .owl-next,
+.outlight .footerLogoList.owl-theme .owl-nav .owl-next:hover {
+	background: url(../images/dark/sprites.png) no-repeat -373px -50px;
+}
+
+.outlight .ourSchemesCol2 .customSelectInner {
+	background: url(../images/dark/blue-dwarrow.png) no-repeat right center;
+}
+
+.outlight .pager li.pager-current,
+.outlight .pager li:hover {
+	background-color: #80FF00;
+	color: black;
+}
+
+.outlight .pager li:hover a {
+	color: #80FF00;
+}
+
+.outlight .galleryList .views-field-title,
+.outlight .galleryList .views-field-name {
+	background-color: black;
+}
+
+
+
+.outlight .accTrigger {
+	background: rgba(255, 255, 255, 0.4);
+	border-color: #80ff00;
+}
+
+.outlight .accTrigger:after {
+	background: url(../images/dark/down-arrow.png) no-repeat center center;
+}
+
+.outlight .mediaLinkBox:hover {
+	border-color: black;
+}
+
+.outlight .mediaLinkBox:hover .fa,
+.outlight .gm-style,
+.outlight .mainColum .timelineInner h3 {
+	color: black;
+}
+
+.outlight .mediaLinkBox:hover span {
+	background-color: black;
+}
+
+.outlight .reload-captcha {
+	background: url(../images/dark/refresh.png) no-repeat left top;
+}
+
+.outlight .customSelectInner {
+	background: url(../images/dark/blue-dwarrow.png) no-repeat right center;
+}
+
+.outlight .selectbox .customSelectInner {
+	background: none;
+}
+
+.outlight input[type="text"],
+.outlight input[type="email"],
+.outlight input[type="tel"],
+.outlight input[type="number"],
+.outlight input[type="url"],
+.outlight input[type="password"],
+.outlight input[type="search"],
+.outlight textarea {
+	color: #000;
+}
+
+.outlight .mainColum h3 {
+	color: #ff0;
+}
+
+.outlight .mainColum h4 {
+	color: #fff;
+}
+
+.outlight .item-sayingsList li .views-field-title span {
+	border: 1px solid #666;
+	color: #FF0;
+	background-color: black;
+}
+
+.outlight .item-sayingsList li,
+.outlight .item-eventlist li,
+.outlight .item-eventlist .views-field-field-event-image,
+.outlight .views-exposed-widgets,
+.outlight .fieldThumb {
+	border-color: black;
+}
+
+.outlight .thumbDescRow small,
+.outlight .fieldKeyDept {
+	background-color: rgba(255, 255, 255, 0.4);
+}
+
+.outlight .arrowList li:after {
+	background: url(../images/dark/list-arrow.png) no-repeat left top;
+}
+
+.outlight .timeDate {
+	background-color: black;
+}
+
+.outlight .timelineInner:after {
+	background-color: black;
+}
+
+.outlight .right .timeDate:after {
+	border-left: 10px solid black;
+}
+
+.outlight .left .timeDate:after {
+	border-right: 10px solid black;
+}
+
+.outlight .timelineOuter .date_separator span {
+	background: #fff;
+	color: black;
+}
+
+.outlight .ui-widget-header {
+	border: black;
+	background: black;
+	color: #fff;
+}
+
+.outlight .month-view .date-box a,
+.outlight .month-view .date-box span {
+	color: #ff0;
+}
+
+.outlight #whats-new>li.active>a,
+.outlight #whats-new>li.active-trail a,
+.outlight #whats-new>li>a.active,
+.outlight #whats-new>li>a:hover,
+.outlight #whats-new>li.hover>a,
+.outlight #whats-new>li.focus>a,
+.outlight #whats-new>.highlight>a,
+.outlight #whats-new ul li a {
+	background-color: #222;
+	color: #80ff00;
+}
+
+.outlight #whats-new li ul li a:hover,
+.outlight #whats-new li ul li.active-trail a,
+.outlight #whats-new li ul li>a.selected,
+.outlight #whats-new ul a:hover,
+.noJS.outlight #whats-new ul a:focus,
+.outlight #whats-new ul a.selected,
+.outlight #whats-new ul>.highlight>a {
+	background-color: #444;
+	color: #80ff00;
+}
+
+.outlight #whats-new ul li a {
+	border-color: #ff0;
+}
+
+.outlight div.news-content {
+	background: black;
+	color: #fff;
+}
+
